@@ -75,7 +75,7 @@ class JokeList extends Component {
             //console.log(this.state.jokes)
         } catch (err) {
             console.log('Failed To Get A New Joke :(')
-            alert('Failed To Get A New Joke :(')
+            alert('Failed To Get A New Joke :( Try to click the More Jokes button')
         }
     }
     handleJokeVote(key, delta) {
