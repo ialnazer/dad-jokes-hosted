@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/dad-jokes-hosted/static/css/main.90d0115d.css",
-    "main.js": "/dad-jokes-hosted/static/js/main.1eb9ea58.js",
+    "main.css": "/dad-jokes-hosted/static/css/main.a5006948.css",
+    "main.js": "/dad-jokes-hosted/static/js/main.d70a24c7.js",
     "static/js/787.bade38f8.chunk.js": "/dad-jokes-hosted/static/js/787.bade38f8.chunk.js",
     "static/media/logo.svg": "/dad-jokes-hosted/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/dad-jokes-hosted/index.html",
-    "main.90d0115d.css.map": "/dad-jokes-hosted/static/css/main.90d0115d.css.map",
-    "main.1eb9ea58.js.map": "/dad-jokes-hosted/static/js/main.1eb9ea58.js.map",
+    "main.a5006948.css.map": "/dad-jokes-hosted/static/css/main.a5006948.css.map",
+    "main.d70a24c7.js.map": "/dad-jokes-hosted/static/js/main.d70a24c7.js.map",
     "787.bade38f8.chunk.js.map": "/dad-jokes-hosted/static/js/787.bade38f8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.90d0115d.css",
-    "static/js/main.1eb9ea58.js"
+    "static/css/main.a5006948.css",
+    "static/js/main.d70a24c7.js"
   ]
 }
